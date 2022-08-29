@@ -1,0 +1,3 @@
+rootProject.name = "Game Of Thones - MVVM - Coroutines - Retrofit - Binding"
+include ':app'
+
