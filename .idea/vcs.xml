@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GameOfThones_MVVM_Coroutines_Retrofit_LiveData" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Game_Of_Thones_MVVM_Coroutines_Retrofit_LiveData" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Victor-Perez-GOT-MVVM-Coroutines-Retrofit-LiveData-" vcs="Git" />
   </component>

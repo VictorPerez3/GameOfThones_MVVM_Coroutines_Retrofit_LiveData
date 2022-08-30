@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.gameofthones_mvvm_coroutines_retrofit_binding.data.model.Got
-import com.example.gameofthones_mvvm_coroutines_retrofit_binding.databinding.AdapterMovieBinding
+import com.example.gameofthones_mvvm_coroutines_retrofit_binding.databinding.AdapterGotBinding
 import com.example.gameofthones_mvvm_coroutines_retrofit_binding.util.ValidationUtil
 
 class GotAdapter : RecyclerView.Adapter<MainViewHolder>() {
@@ -20,7 +20,7 @@ class GotAdapter : RecyclerView.Adapter<MainViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MainViewHolder {
 
         val inflater = LayoutInflater.from(parent.context)
-        val binding = AdapterMovieBinding.inflate(inflater, parent, false)
+        val binding = AdapterGotBinding.inflate(inflater, parent, false)
         return MainViewHolder(binding)
     }
 
@@ -38,6 +38,6 @@ class GotAdapter : RecyclerView.Adapter<MainViewHolder>() {
     }
 }
 
-class MainViewHolder(val binding: AdapterMovieBinding) : RecyclerView.ViewHolder(binding.root) {
+class MainViewHolder(val binding: AdapterGotBinding) : RecyclerView.ViewHolder(binding.root) {
 
 }
