@@ -13,5 +13,5 @@ Lista de personagens da Serie Game Of Thrones utilizando tecnologias e conceitos
 - **LiveData**
 
 ## Print
-![print](![image]())
+![print](https://raw.githubusercontent.com/VictorPerez3/GameOfThones_MVVM_Coroutines_Retrofit_LiveData/master/Game_of_Thones_Projeto.jpeg)
 
