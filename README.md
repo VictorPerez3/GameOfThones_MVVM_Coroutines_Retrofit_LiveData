@@ -3,6 +3,7 @@
 Lista de personagens da Serie Game Of Thrones utilizando tecnologias e conceitos citados abaixo.
 
 ## Stack
+- **Android Kotlin**
 - **MVVM**
 - **Binding**
 - **Retrofit**
